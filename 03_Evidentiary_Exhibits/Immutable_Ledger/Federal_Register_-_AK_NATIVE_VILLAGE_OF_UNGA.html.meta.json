@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+UNGA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+UNGA",
+  "title": "Federal Register - AK NATIVE VILLAGE OF UNGA",
+  "fetched_at": "2026-11-23T17:23:44.835458Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 212209,
+  "sha256": "f90f3f1df480acad620aceeb7e8fd3d145598360663d2c259080b508ffe19ee4",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
